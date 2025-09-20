@@ -1,7 +1,9 @@
 ### Hi,
-I am a passionate enthusiast of Linux and home automation systems, and nowadays I'm learning Full stack programming in my freetime. Here you can found my code for few applications what I have done. Here you can also find my old docker compose configuration files for my Home Assistant.
+I am a passionate enthusiast of Linux and home automation systems, and nowadays I'm learning Full stack programming in my freetime. 
 
-You can also visit my website ([https://eddyshomepages.fi](https://eddyshomepages.fi)) to see more, but unfortunately main part of these writings are in Finnish for now.
+Here you can found my codings for some applications what I have done and here are also my old docker compose configuration files what I have use with Home Assistant.
+
+You can also visit my website ([https://eddyshomepages.fi](https://eddyshomepages.fi)) to see more what I have done, but unfortunately main part of these writings are still in Finnish.
 
 <!--
 **EsaPo/EsaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
