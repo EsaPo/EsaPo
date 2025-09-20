@@ -1,7 +1,7 @@
 ### Hi,
-I am a passionate enthusiast of Linux and home automation systems, and on these pages you will find, among other things, configuration files for my Home Assistant and configuration files related to Linux.
+I am a passionate enthusiast of Linux and home automation systems, and nowadays I'm learning Full stack programming in my freetime. Here you can found my code for few applications what I have done. Here you can also my old configuration files for my Home Assistant.
 
-You can also visit my blog ([https://eddyshomepages.fi](https://eddyshomepages.fi)) to see more, but unfortunately these writings are in Finnish for now.
+You can also visit my website ([https://eddyshomepages.fi](https://eddyshomepages.fi)) to see more, but unfortunately main part of these writings are in Finnish for now.
 
 <!--
 **EsaPo/EsaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
