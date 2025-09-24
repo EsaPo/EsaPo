@@ -5,6 +5,15 @@ Here you can found my codings for some applications what I have done and here ar
 
 You can also visit my website ([https://eddyshomepages.fi](https://eddyshomepages.fi)) to see more what I have done, but unfortunately main part of these writings are still in Finnish.
 
+----
+
+Olen intohimoinen Linuxin ja kodin automaatiojärjestelmien harrastaja ja opiskelen vapaa-ajallani Full stack -ohjelmointia.
+
+Täältä löydät koodauksiani joillekin sovelluksille, joita olen tehnyt, sekä myös vanhoja docker compose tiedostoja, joita olen käyttänyt Home Assistantin kanssa.
+
+Käy myös kotisivuillani (https://eddyshomepages.fi) katsomassa lisää, mitä kaikkea olen tällä saralla tehnyt. Valitettavasti tällä hetkellä suurin osa näistä kirjoituksista on edelleen suomeksi.
+
+
 <!--
 **EsaPo/EsaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
