@@ -1,5 +1,5 @@
 ### Hi,
-I am a passionate enthusiast of Linux and home automation systems, and nowadays I'm learning Full stack programming in my freetime. 
+I am a passionate enthusiast of Linux and home automation systems, and nowadays I'm learning C and C++ language in my freetime. Before that I have learned Full stack programming.
 
 Here you can found my codings for some applications what I have done and here are also my old docker compose configuration files what I have use with Home Assistant.
 
@@ -7,7 +7,7 @@ You can also visit my website ([https://eddyshomepages.fi](https://eddyshomepage
 
 ----
 
-Olen intohimoinen Linuxin ja kodin automaatiojärjestelmien harrastaja ja opiskelen vapaa-ajallani Full stack -ohjelmointia.
+Olen intohimoinen Linuxin ja kodin automaatiojärjestelmien harrastaja ja opiskelen vapaa-ajallani C ja C++ ohjelmointikieliä. Ennen tätä opiskelin Full stack -ohjelmointia.
 
 Täältä löydät koodauksiani joillekin sovelluksille, joita olen tehnyt, sekä myös vanhoja docker compose tiedostoja, joita olen käyttänyt Home Assistantin kanssa.
 
